@@ -1,0 +1,9 @@
+com\max\crud3\Controllers\ProductController.class
+com\max\crud3\Services\ProductService.class
+com\max\crud3\SampleCrudDummy2Application.class
+com\max\crud3\Repos\UserRepo.class
+com\max\crud3\Services\UserService.class
+com\max\crud3\Controllers\UserController.class
+com\max\crud3\Models\Product.class
+com\max\crud3\Models\User.class
+com\max\crud3\Repos\ProductRepo.class
